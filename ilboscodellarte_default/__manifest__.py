@@ -66,7 +66,7 @@
     ##eventos
         'https://github.com/OCA/event -b 17.0',
         'https://github.com/OCA/social -b 17.0',
-        'https://github.com/OCA/calendar/tree/17.0 -b 17.0',
+        'https://github.com/OCA/calendar -b 17.0',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
