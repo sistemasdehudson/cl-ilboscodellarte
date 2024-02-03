@@ -40,6 +40,7 @@
     "port": "8069",
     "git-repos": [
         "https://github.com/sistemasdehudson/cl-ilboscodellarte",
+        "https://github.com/Yenthe666/auto_backup -b 17.0",
     #localizacion italiana
         "https://github.com/OCA/l10n-italy.git -b 17.0",
         'https://github.com/OCA/account-financial-reporting.git -b 17.0',
